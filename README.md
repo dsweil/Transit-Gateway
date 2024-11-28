@@ -30,36 +30,9 @@ The architecture includes:
 ---
 
 ## **Prerequisites**
-1. **Terraform**: Version >= 1.x
+1. **Terraform**: Version >= 5.x
 2. **AWS CLI**: Configured with appropriate permissions.
 3. **AWS Account**: With permissions to create VPCs, TGWs, and related resources.
-
----
-
-## **Usage**
-
-### **Step 1: Clone the Repository**
-```bash
-git clone <repository_url>
-cd <repository_folder>
-```
-
-### **Step 2: Update Variables**
-Modify the `variables.tf` file to customize:
-- VPC CIDR blocks.
-- Subnet CIDRs.
-- TGW configurations.
-
-### **Step 3: Initialize Terraform**
-```bash
-terraform init
-```
-
-### **Step 4: Apply the Terraform Plan**
-```bash
-terraform apply
-```
-Confirm the execution by typing `yes` when prompted.
 
 ---
 
