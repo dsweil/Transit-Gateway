@@ -11,7 +11,8 @@ This Terraform project demonstrates how to configure and manage AWS Transit Gate
 ---
 
 ## **Architecture Diagram**
-*(Include a diagram or a description here)*  
+![image](https://github.com/user-attachments/assets/ea6c675c-65ab-49a1-98c3-d69fe7f98738)
+
 The architecture includes:
 - **Three VPCs**: Prod, Dev, and Test.
 - **Transit Gateway**: Centralized connectivity hub.
