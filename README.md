@@ -26,7 +26,7 @@ The architecture includes:
 - Transit Gateway setup for inter-VPC communication.
 - TGW attachments for each VPC.
 - Routing tables for traffic management between VPCs.
-- Modular and reusable Terraform code for scalability.
+
 
 ---
 
@@ -63,7 +63,7 @@ The architecture includes:
 
 - **Architecture Diagram**
 - **Terraform Outputs**
-- **AWS Console Views (TGW, VPCs, Routes)**
+
 
 ---
 
