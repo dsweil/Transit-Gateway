@@ -70,8 +70,4 @@ The architecture includes:
 
 ## **Author**
 - **Derrick Weil**  
-*(Optional: Add your contact details, GitHub profile, or LinkedIn link)*
 
----
-
-Feel free to adjust or expand this template based on your audience and additional project features.
